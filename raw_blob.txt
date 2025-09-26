@@ -1,0 +1,20 @@
+{"title": "A Light in the Attic", "price": "\u00c2\u00a351.77", "source_url": "http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html"}
+{"title": "Tipping the Velvet", "price": "\u00c2\u00a353.74", "source_url": "http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html"}
+{"title": "Soumission", "price": "\u00c2\u00a350.10", "source_url": "http://books.toscrape.com/catalogue/soumission_998/index.html"}
+{"title": "Sharp Objects", "price": "\u00c2\u00a347.82", "source_url": "http://books.toscrape.com/catalogue/sharp-objects_997/index.html"}
+{"title": "Sapiens: A Brief History of Humankind", "price": "\u00c2\u00a354.23", "source_url": "http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html"}
+{"title": "The Requiem Red", "price": "\u00c2\u00a322.65", "source_url": "http://books.toscrape.com/catalogue/the-requiem-red_995/index.html"}
+{"title": "The Dirty Little Secrets of Getting Your Dream Job", "price": "\u00c2\u00a333.34", "source_url": "http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html"}
+{"title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull", "price": "\u00c2\u00a317.93", "source_url": "http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html"}
+{"title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics", "price": "\u00c2\u00a322.60", "source_url": "http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html"}
+{"title": "The Black Maria", "price": "\u00c2\u00a352.15", "source_url": "http://books.toscrape.com/catalogue/the-black-maria_991/index.html"}
+{"title": "Starving Hearts (Triangular Trade Trilogy, #1)", "price": "\u00c2\u00a313.99", "source_url": "http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html"}
+{"title": "Shakespeare's Sonnets", "price": "\u00c2\u00a320.66", "source_url": "http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html"}
+{"title": "Set Me Free", "price": "\u00c2\u00a317.46", "source_url": "http://books.toscrape.com/catalogue/set-me-free_988/index.html"}
+{"title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)", "price": "\u00c2\u00a352.29", "source_url": "http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html"}
+{"title": "Rip it Up and Start Again", "price": "\u00c2\u00a335.02", "source_url": "http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html"}
+{"title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991", "price": "\u00c2\u00a357.25", "source_url": "http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html"}
+{"title": "Olio", "price": "\u00c2\u00a323.88", "source_url": "http://books.toscrape.com/catalogue/olio_984/index.html"}
+{"title": "Mesaerion: The Best Science Fiction Stories 1800-1849", "price": "\u00c2\u00a337.59", "source_url": "http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html"}
+{"title": "Libertarianism for Beginners", "price": "\u00c2\u00a351.33", "source_url": "http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html"}
+{"title": "It's Only the Himalayas", "price": "\u00c2\u00a345.17", "source_url": "http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html"}
